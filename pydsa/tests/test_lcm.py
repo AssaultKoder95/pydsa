@@ -8,3 +8,4 @@ def test_lcm():
     assert lcm(10251, 210) == 717570
     assert lcm(126, 105) == 630
     assert lcm(145, 780) == 22620
+    
