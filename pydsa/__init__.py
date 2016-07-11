@@ -17,3 +17,5 @@ from .binary_tree import BTNode
 from .gnome_sort import gnome_sort
 from .mod_inverse import mod_inverse
 from .euclid import gcd, extended_euclid
+from .lcm import lcm
+
